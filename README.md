@@ -3,7 +3,7 @@ This repository collects past exams, review notes, and selected study materials 
 ## Courses
 
 * Mathematical Analysis
-* Advanced Algebra (Xie Qihong Edition)
+* Advanced Algebra
 * Point-Set Topology
 * Complex Analysis
 * Real Analysis
